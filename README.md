@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://rgokulkrishnaprofile.vercel.app/">
+<a href="https://gokulkrishna37.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-0B0B0B?style=for-the-badge&logo=vercel&logoColor=D7FF3F" />
 </a>
 &nbsp;
