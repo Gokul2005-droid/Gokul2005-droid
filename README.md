@@ -1,155 +1,349 @@
-# Hi, I'm Gokul Krishna 👋
+<div align="center">
+
+# GOKUL KRISHNA
 
 ### AI Engineer • Full-Stack Developer • Builder
 
-I build intelligent digital products that solve real-world problems.
+<p>
+  <i>I build intelligent digital products that solve real-world problems.</i>
+</p>
 
-I'm a Computer Science & Engineering student specializing in
-Artificial Intelligence & Machine Learning, with hands-on experience
-in full-stack development, AI applications, UI design, and product development.
+<br/>
+
+<a href="https://rgokulkrishnaprofile.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0B0B0B?style=for-the-badge&logo=vercel&logoColor=D7FF3F" />
+</a>
+&nbsp;
+<a href="mailto:rgokulkrishna37@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0B0B0B?style=for-the-badge&logo=gmail&logoColor=D7FF3F" />
+</a>
+&nbsp;
+<a href="https://github.com/Gokul2005-droid">
+  <img src="https://img.shields.io/badge/GITHUB-0B0B0B?style=for-the-badge&logo=github&logoColor=D7FF3F" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Gokul2005-droid&style=flat-square&color=D7FF3F&label=PROFILE+VIEWS" />
+
+</div>
 
 ---
 
-## 🚀 What I Build
+<div align="center">
 
-- 🤖 AI-powered applications
-- 🌐 Full-stack web applications
-- 📊 Data-driven systems
-- 🧠 Machine learning solutions
-- 💻 Developer tools and software
-- 🎨 Modern interfaces and digital experiences
-- 🚀 Experimental products and startup ideas
+> **I DON'T JUST WRITE CODE.**
+>
+> **I BUILD SYSTEMS.**
 
-> **I don't just write code. I build systems.**
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## `01` — ABOUT ME
+
+I'm **Gokul Krishna**, a Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning**.
+
+I work across the intersection of:
+
+- 🤖 Artificial Intelligence
+- 💻 Full-Stack Development
+- 🧠 Machine Learning
+- 🎨 UI / UX Design
+- 🚀 Product Development
+- 💡 Entrepreneurship
+
+I enjoy taking an idea from a rough concept to a working product — understanding the problem, designing the experience, building the system, and continuously improving it.
+
+My goal is simple:
+
+> **Build technology that is useful, practical, and meaningful.**
+
+---
+
+## `02` — WHAT I BUILD
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI & MACHINE LEARNING
+
+Building practical AI-powered applications, intelligent systems, and data-driven solutions.
+
+</td>
+<td width="50%">
+
+### 🌐 FULL-STACK DEVELOPMENT
+
+Designing and developing complete web applications from frontend interfaces to backend systems.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚀 PRODUCT DEVELOPMENT
+
+Turning ideas and problems into usable, deployable digital products.
+
+</td>
+<td width="50%">
+
+### 🎨 CREATIVE TECHNOLOGY
+
+Combining engineering, interface design, and creativity to build better digital experiences.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03` — TECHNOLOGY STACK
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-0B0B0B?style=for-the-badge&logo=python&logoColor=D7FF3F)
-![Java](https://img.shields.io/badge/Java-0B0B0B?style=for-the-badge&logo=openjdk&logoColor=D7FF3F)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B0B0B?style=for-the-badge&logo=javascript&logoColor=D7FF3F)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B0B0B?style=for-the-badge&logo=typescript&logoColor=D7FF3F)
+<p>
+<img src="https://img.shields.io/badge/Python-0B0B0B?style=flat-square&logo=python&logoColor=D7FF3F" />
+<img src="https://img.shields.io/badge/Java-0B0B0B?style=flat-square&logo=openjdk&logoColor=D7FF3F" />
+<img src="https://img.shields.io/badge/JavaScript-0B0B0B?style=flat-square&logo=javascript&logoColor=D7FF3F" />
+<img src="https://img.shields.io/badge/TypeScript-0B0B0B?style=flat-square&logo=typescript&logoColor=D7FF3F" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-0B0B0B?style=for-the-badge&logo=react&logoColor=D7FF3F)
-![Next.js](https://img.shields.io/badge/Next.js-0B0B0B?style=for-the-badge&logo=next.js&logoColor=D7FF3F)
-![HTML5](https://img.shields.io/badge/HTML5-0B0B0B?style=for-the-badge&logo=html5&logoColor=D7FF3F)
-![CSS3](https://img.shields.io/badge/CSS3-0B0B0B?style=for-the-badge&logo=css3&logoColor=D7FF3F)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0B0B0B?style=for-the-badge&logo=tailwindcss&logoColor=D7FF3F)
+<p>
+<img src="https://img.shields.io/badge/React.js-0B0B0B?style=flat-square&logo=react&logoColor=D7FF3F" />
+<img src="https://img.shields.io/badge/Next.js-0B0B0B?style=flat-square&logo=next.js&logoColor=D7FF3F" />
+<img src="https://img.shields.io/badge/HTML5-0B0B0B?style=flat-square&logo=html5&logoColor=D7FF3F" />
+<img src="https://img.shields.io/badge/CSS3-0B0B0B?style=flat-square&logo=css3&logoColor=D7FF3F" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0B0B0B?style=flat-square&logo=tailwindcss&logoColor=D7FF3F" />
+</p>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-0B0B0B?style=for-the-badge&logo=node.js&logoColor=D7FF3F)
-![Flask](https://img.shields.io/badge/Flask-0B0B0B?style=for-the-badge&logo=flask&logoColor=D7FF3F)
+<p>
+<img src="https://img.shields.io/badge/Node.js-0B0B0B?style=flat-square&logo=node.js&logoColor=D7FF3F" />
+<img src="https://img.shields.io/badge/Flask-0B0B0B?style=flat-square&logo=flask&logoColor=D7FF3F" />
+<img src="https://img.shields.io/badge/REST_APIs-0B0B0B?style=flat-square&logoColor=D7FF3F" />
+</p>
 
 ### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-0B0B0B?style=for-the-badge&logo=mongodb&logoColor=D7FF3F)
-![SQLite](https://img.shields.io/badge/SQLite-0B0B0B?style=for-the-badge&logo=sqlite&logoColor=D7FF3F)
+<p>
+<img src="https://img.shields.io/badge/MongoDB-0B0B0B?style=flat-square&logo=mongodb&logoColor=D7FF3F" />
+<img src="https://img.shields.io/badge/SQLite-0B0B0B?style=flat-square&logo=sqlite&logoColor=D7FF3F" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-0B0B0B?style=for-the-badge&logo=git&logoColor=D7FF3F)
-![GitHub](https://img.shields.io/badge/GitHub-0B0B0B?style=for-the-badge&logo=github&logoColor=D7FF3F)
-![VS Code](https://img.shields.io/badge/VS%20Code-0B0B0B?style=for-the-badge&logo=visualstudiocode&logoColor=D7FF3F)
-![Vercel](https://img.shields.io/badge/Vercel-0B0B0B?style=for-the-badge&logo=vercel&logoColor=D7FF3F)
+<p>
+<img src="https://img.shields.io/badge/Git-0B0B0B?style=flat-square&logo=git&logoColor=D7FF3F" />
+<img src="https://img.shields.io/badge/GitHub-0B0B0B?style=flat-square&logo=github&logoColor=D7FF3F" />
+<img src="https://img.shields.io/badge/VS_Code-0B0B0B?style=flat-square&logo=visualstudiocode&logoColor=D7FF3F" />
+<img src="https://img.shields.io/badge/Vercel-0B0B0B?style=flat-square&logo=vercel&logoColor=D7FF3F" />
+</p>
 
 ---
 
-# ⭐ Featured Projects
+## `04` — SELECTED PROJECTS
 
-### 🧾 Inventa — Unified Billing System
+### `01` — INVENTA
 
-AI-embedded multi-branch billing and inventory platform with
-role-aware insights, demand forecasting, invoice generation,
-and administrative controls.
+**AI-Embedded Multi-Branch Billing & Inventory System**
 
-**Focus:** AI • Billing • Inventory • Full Stack
+An AI-embedded billing and inventory platform designed to support multi-branch operations with role-aware insights, demand forecasting, invoice generation, and administrative controls.
 
----
+**Focus**
 
-### 🧠 PassionPro
+`AI/ML` `Billing` `Inventory` `Forecasting` `Full Stack`
 
-AI-driven academic and career guidance platform designed to
-help students make better academic and career decisions.
+**Status**
 
-🏆 **5th Place — VirZyverse Solution Hackathon**
-
-**Focus:** AI • Education • Guidance • Product Development
+`DEPLOYED / ACTIVE USE`
 
 ---
 
-### 📈 Preempt
+### `02` — PASSIONPRO
 
-Predictive resource capacity and workforce risk platform
-designed to forecast workforce demand and generate
-capacity and risk alerts.
+**AI Academic & Career Guidance Platform**
 
-**Focus:** AI • Prediction • Analytics
+An AI-driven guidance platform designed to help students explore academic and career pathways.
 
----
+Built for the **VirZyverse Solution Hackathon** at Hindusthan College of Engineering and Technology.
 
-### 🚗 Vroom Care
+🏆 **5th Place**
 
-Doorstep car wash and detailing service platform covering
-booking, service management, pricing, and analytics.
+**Focus**
 
-**Focus:** Web Development • Product • Service Platform
+`AI` `Education` `Career Guidance` `Product Development`
 
 ---
 
-### 🏨 Hotel Grand LPM
+### `03` — PREEMPT
 
-Responsive hotel website featuring room information,
-reviews, gym details, and planned administrative content management.
+**Predictive Resource Capacity & Workforce Risk Platform**
 
-**Focus:** Web Development • UI/UX
+A predictive platform designed to forecast workforce demand and identify capacity and workforce risks.
 
----
+**Focus**
 
-## 🏆 Achievements
-
-- 🥈 **II Prize** — National Level Project Presentation, INFEST 2K25
-- 🏆 **5th Place** — VirZyverse Solution Hackathon
-- 🎖️ **Certificate of Excellence** — ROBOFESTRA '26 Project Expo
-- 🧠 Best Entrepreneurial Knowledge Test — RYLA
-- 💼 Best Business Plan — RYLA
-- 🎥 Best Business Video — RYLA
-- 🚀 Entrepreneurship Certification — RYLA
+`AI` `Predictive Analytics` `Workforce Intelligence` `Risk Detection`
 
 ---
 
-## 💼 Experience
+### `04` — VROOM CARE
 
-**Full-Stack Developer & Designer — Freelance**  
-2023 – Present
+**Doorstep Car Wash & Detailing Platform**
 
-**UI Designer — Society for Modern English Research**
+A service-platform concept covering customer booking, service management, pricing, and analytics.
 
-**Managing Director — Truhnovate Tech Solutions**
+**Focus**
 
-**Intern — Blend Vidya Edu Tech**
-
----
-
-## 📚 Education
-
-**B.Tech Computer Science & Engineering**  
-Specialization: Artificial Intelligence & Machine Learning
-
-Kalasalingam Academy of Research and Education  
-2026
+`Web Development` `Booking` `Service Management` `Analytics`
 
 ---
 
-## 🔭 Currently Building
+### `05` — HOTEL GRAND LPM
+
+**Responsive Hotel Website**
+
+A modern responsive website for Hotel Grand LPM featuring room information, reviews, gym details, and planned administrative content management.
+
+**Focus**
+
+`Web Development` `UI/UX` `Responsive Design`
+
+---
+
+### `06` — SMART IRRIGATION
+
+**IoT-Based Automated Irrigation System**
+
+An IoT-based agricultural system using soil-moisture sensing for efficient water management and crop monitoring.
+
+**Focus**
+
+`IoT` `Arduino` `Sensors` `Agriculture`
+
+---
+
+### `07` — ADAPTIVE TRAFFIC CONTROL
+
+**AI-Based Traffic Management Concept**
+
+An intelligent traffic-management concept using machine learning and computer vision to adapt to traffic conditions.
+
+**Focus**
+
+`Machine Learning` `Computer Vision` `Python` `OpenCV`
+
+---
+
+### `08` — AIR QUALITY MONITOR
+
+**Environmental Monitoring System**
+
+A monitoring system designed to track air-quality metrics and provide real-time visualization and alerts.
+
+**Focus**
+
+`IoT` `Sensors` `React` `Data Visualization`
+
+---
+
+### `09` — WEBSITE BLOCKER
+
+**Productivity-Focused Desktop Application**
+
+A productivity application designed to block distracting websites using customizable schedules and block lists.
+
+**Focus**
+
+`Python` `Tkinter` `SQLite` `Productivity`
+
+---
+
+## `05` — ACHIEVEMENTS
+
+<div align="center">
+
+| Achievement | Recognition |
+|:---|:---|
+| 🥈 **II Prize** | National Level Project Presentation — INFEST 2K25 |
+| 🏆 **5th Place** | VirZyverse Solution Hackathon |
+| 🎖️ **Certificate of Excellence** | Project Expo — ROBOFESTRA '26 |
+| 🧠 **Best Entrepreneurial Knowledge Test** | RYLA Entrepreneurship Training |
+| 💼 **Best Business Plan** | RYLA Entrepreneurship Training |
+| 🎥 **Best Business Video** | RYLA Entrepreneurship Training |
+| 🚀 **Entrepreneurship Certification** | RYLA — October 2025 |
+
+</div>
+
+---
+
+## `06` — EXPERIENCE
+
+### Full-Stack Developer & Designer
+**Freelance** · `2023 – Present`
+
+Working across web development, UI design, digital editing, backend development, deployment, and complete project delivery.
+
+**Areas**
+
+`React.js` `HTML/CSS` `Node.js` `Flask` `REST APIs` `Databases`
+
+---
+
+### UI Designer
+**Society for Modern English Research**
+
+Designing user interfaces and reusable visual components while supporting the transition from design requirements to frontend implementation.
+
+---
+
+### Managing Director
+**Truhnovate Tech Solutions**
+
+Leading operations, project delivery, client requirements, and product-development activities for a technology startup.
+
+---
+
+### Intern
+**Blend Vidya Edu Tech**
+
+Applied programming and web-development skills to assigned tasks while developing structured problem-solving, debugging, and implementation skills.
+
+---
+
+## `07` — EDUCATION
+
+### B.Tech — Computer Science & Engineering
+**Specialization: Artificial Intelligence & Machine Learning**
+
+**Kalasalingam Academy of Research and Education**
+
+`2026`
+
+---
+
+## `08` — CURRENTLY BUILDING
 
 ```text
-AI Systems
-Product Development
-Full-Stack Applications
-Experimental Technology
+┌─────────────────────────────────────────────┐
+│                                             │
+│  01  AI SYSTEMS                             │
+│      Exploring intelligent applications     │
+│                                             │
+│  02  PRODUCT DEVELOPMENT                    │
+│      Turning ideas into deployable products │
+│                                             │
+│  03  FULL-STACK SYSTEMS                    │
+│      Building practical web applications    │
+│                                             │
+│  04  EXPERIMENTAL TECHNOLOGY               │
+│      Learning by building                   │
+│                                             │
+└─────────────────────────────────────────────┘
